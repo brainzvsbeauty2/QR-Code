@@ -21,13 +21,13 @@ This is a QR code that was part of a challenge.
 
 ### Screenshot
 
-![](./QR%20Code%20Completed.JPG)
+![](/QR%20Code%20Completed.JPG)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/brainzvsbeauty2/QR-Code)
+- Live Site URL: [Add live site URL here](https://brainz-qrcodecomponent.netlify.app/)
 
 
 ### Built with
@@ -50,7 +50,8 @@ To see how you can add code snippets, see below:
 ### Continued development
 
 * CSS/SASS
-* Javascript 
+* Javascript
+* React
 
 
 ### Useful resources
