@@ -26,8 +26,8 @@ This is a QR code that was part of a challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/brainzvsbeauty2/QR-Code)
-- Live Site URL: [Add live site URL here](https://brainz-qrcodecomponent.netlify.app/)
+- Solution URL: [https://github.com/brainzvsbeauty2/QR-Code](https://github.com/brainzvsbeauty2/QR-Code)
+- Live Site URL: [https://brainz-qrcodecomponent.netlify.app/](https://brainz-qrcodecomponent.netlify.app/)
 
 
 ### Built with
